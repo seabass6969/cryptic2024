@@ -5,6 +5,7 @@
 
 <svelte:head>
 	<title>Skills</title>
+	<meta property="og:title" content="Cephas - Skills" />
 </svelte:head>
 <div transition:fade>
     <slot />
